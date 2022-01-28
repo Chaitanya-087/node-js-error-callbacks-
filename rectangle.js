@@ -10,5 +10,6 @@ module.exports.rect = (x, y, callback) => {
         area: () => x * y,
       });
     }, 2000);
+    
   }
 };
